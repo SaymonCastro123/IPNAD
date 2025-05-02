@@ -86,11 +86,11 @@ header .menu{
 
 .slider .list .item .content p:nth-child(1){
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 3px;
 }
 
 .slider .list .item .content h2{
-    font-size: 50px;
+    font-size: 45px;
     margin: 0;
 }
 
@@ -135,7 +135,7 @@ header .menu{
     padding: 0 50px;
     box-sizing: border-box;
     overflow: auto;
-    justify-content: center;
+    justify-content: right;
 }
 
 .thumbnail::-webkit-scrollbar{
@@ -171,6 +171,6 @@ header .menu{
         justify-content: start;
     }
     .slider .list .item .content h2{
-        font-size: 50px;
+        font-size: 35px;
     }
 }
